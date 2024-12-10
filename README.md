@@ -3,13 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        body {
-            font-family: "Comic Sans MS", "Comic Sans", cursive;
-            background-color:black;
-        }
-    </style>
 </head>
 <body>
     <h1>What is this Python Package?</h1>
