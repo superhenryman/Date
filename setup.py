@@ -1,17 +1,17 @@
 from setuptools import setup
 
 setup(
-    name = 'Date',
-    version = '1.0.0',
-    description = 'Date Extractor',
-    url = 'https://github.com/superhenryman/Date',
-    author = 'Kareem Alhaj',
-    author_email = 'kareem.a.alhaj@gmail.com',
+    name='Date',
+    version='1.0.0',
+    description='Date Extractor',
+    url='https://github.com/superhenryman/Date',
+    author='Kareem Alhaj',
+    author_email='kareem.a.alhaj@gmail.com',
     license='GPL-3.0-or-later',
-    packages = ['Date'],
+    packages=['Date'],
     classifiers=[
-    'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
-    'Operating System :: OS Independent',
+        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
+        'Operating System :: OS Independent',
     ],
-    python_requires = '>=3.9',
+    python_requires='>=3.9',
 )
